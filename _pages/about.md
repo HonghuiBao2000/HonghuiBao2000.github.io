@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a master's student at the School of Computing(SoC), National University of Singapore, and a research intern at [NExT++](https://www.nextcenter.org/), mentored by [Dr. Wenjie WANG](https://wenjiewwj.github.io/) and supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). My research interests include information retrieval, recommendation. 
+I am a master student at the School of Computing(SoC), National University of Singapore, and a research intern at [NExT++](https://www.nextcenter.org/), mentored by [Dr. Wenjie WANG](https://wenjiewwj.github.io/) and supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). My research interests include information retrieval, recommendation. 
 
 I received my B.Eng. degree from the College of Computer Science, Sichuan University, in 2023. During my undergraduate studies, I was also a student in the [NUS SoC NGNE program](https://www.comp.nus.edu.sg/~ngne/Home.html), supervised by [Prof. Stanley Kok](https://www.comp.nus.edu.sg/~skok/index.html). 
 
