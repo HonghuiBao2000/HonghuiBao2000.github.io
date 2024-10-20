@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a master student in the School of Computing at National University of Singapore, mentored by [Dr. Wenjie WANG](https://wenjiewwj.github.io/) and supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). I received my B.Eng. degree from College of Computer Science at Sichuan University in 2023. My research interests include information retrieval, recommendation. 
-
+I am a master student in the School of Computing at National University of Singapore, and a research intern at [NExT++](https://www.nextcenter.org/), mentored by [Dr. Wenjie WANG](https://wenjiewwj.github.io/) and supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). I received my B.Eng. degree from College of Computer Science at Sichuan University in 2023. My research interests include information retrieval, recommendation. 
+s
 **I am seeking a PhD position starting in Fall '25!**
 
 
