@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One full paper is accepted by [CIKM'24](https://cikm2024.org/), about LLM-based generative recommendation. :smile:
+One full paper is accepted by [CIKM24](https://cikm2024.org/), about LLM-based generative recommendation. :smile:

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One full paper is accepted by [RecSys'25](https://recsys.acm.org/recsys25/) as an **Oral Presentation**, about LLM-based heterogeneous recommendation. :smile:
+One full paper is accepted by [RecSys25](https://recsys.acm.org/recsys25/) as an **Oral Presentation**, about LLM-based heterogeneous recommendation. :smile:
