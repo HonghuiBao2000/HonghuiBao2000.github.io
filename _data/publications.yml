@@ -1,0 +1,16 @@
+main:
+  - title: "Heterogeneous User Modeling for LLM-based Recommendation"
+    authors: <strong>Honghui Bao</strong>, Wenjie Wang, Xinyu Lin, Fengbin Zhu, Teng Sun, Fuli Feng, Tat-Seng Chua
+    conference_short: RecSys
+    conference: 19th ACM Conference on Recommender Systems <strong>(RecSys)</strong>, 2025.
+    notes: Oral Presentation
+    image: ./assets/img/publication_preview/HUM.png
+
+  - title: "Learnable Item Tokenization for Generative Recommendation"
+    authors: Wenjie Wang*, <strong>Honghui Bao*</strong>, Xinyu Lin, Jizhi Zhang, Yongqi Li, Fuli Feng, See-Kiong Ng, Tat-Seng Chua
+    conference_short: CIKM
+    conference: International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2405.07314
+    code: https://github.com/HonghuiBao2000/LETTER
+    notes: Most Cited Paper 1 / 347 Accepted Papers
+    image: ./assets/img/publication_preview/letter.png
