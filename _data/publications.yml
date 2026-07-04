@@ -1,8 +1,18 @@
 main:
+  - title: "OneReason Technical Report"
+    authors: OneRec Team, <strong>Core Contributor</strong>
+    conference_short: Technical Report
+    conference: Technical Report, 2026.
+    pdf: https://arxiv.org/abs/2606.06260
+    code: https://github.com/Kuaishou-OneRec/OpenOneRec
+    image: ./assets/img/publication_preview/OpenOneRec.png
+
   - title: "Heterogeneous User Modeling for LLM-based Recommendation"
     authors: <strong>Honghui Bao</strong>, Wenjie Wang, Xinyu Lin, Fengbin Zhu, Teng Sun, Fuli Feng, Tat-Seng Chua
     conference_short: RecSys
     conference: 19th ACM Conference on Recommender Systems <strong>(RecSys)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2507.04626
+    code: https://github.com/HonghuiBao2000/HUM
     notes: Oral Presentation
     image: ./assets/img/publication_preview/HUM.png
 
