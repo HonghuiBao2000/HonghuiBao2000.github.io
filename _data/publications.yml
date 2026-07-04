@@ -1,10 +1,11 @@
 main:
   - title: "OneReason Technical Report"
-    authors: OneRec Team, <strong>Core Contributor</strong>
+    authors: OneRec Team (Guorui Zhou, Honghui Bao, ..., Ziming Li) 
     conference_short: Technical Report
     conference: Technical Report, 2026.
     pdf: https://arxiv.org/abs/2606.06260
     code: https://github.com/Kuaishou-OneRec/OpenOneRec
+    notes: Core Contributor
     image: ./assets/img/publication_preview/OpenOneRec.png
 
   - title: "Heterogeneous User Modeling for LLM-based Recommendation"
