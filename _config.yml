@@ -1,12 +1,12 @@
 # Basic Information
 title: Honghui Bao
-position: Master Student
-affiliation: National University of Singapore
-affiliation_link: https://www.comp.nus.edu.sg/
-email: honghuibao2000@gmail.com
+position: PhD Student
+affiliation: University of Illinois Chicago
+affiliation_link: https://cs.uic.edu/
+email: honghuibao2000 (at) gmail.com / hbao (at) uic.edu
 
 # Search Engine Optimization (SEO)
-keywords: Honghui Bao, recommender systems, large language models, NUS, NExT++
+keywords: Honghui Bao, recommender systems, large language models, NUS, NExT++, UIC, Philip Yu
 description: Honghui Bao's website
 canonical: https://honghuibao2000.github.io/
 
@@ -14,8 +14,8 @@ canonical: https://honghuibao2000.github.io/
 google_scholar: https://scholar.google.com/citations?user=wIP-aZIAAAAJ
 cv_link:
 github_link: https://github.com/HonghuiBao2000
-linkedin:
-twitter:
+linkedin: https://www.linkedin.com/in/honghui-bao-7b71a7342/
+twitter: https://x.com/HonghuiBao
 
 # Images
 avatar: ./assets/img/prof_pic.jpg

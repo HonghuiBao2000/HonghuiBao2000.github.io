@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a master student at the School of Computing (SoC), National University of Singapore, and a research intern at [NExT++](https://www.nextcenter.org/), mentored by [Prof. Wenjie Wang](https://wenjiewwj.github.io/) and supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). My research interests include Recommendation and Large Language Models.
+I am a PhD student in Computer Science at the [University of Illinois Chicago](https://cs.uic.edu/), advised by [Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/).
 
-I received my B.Eng. degree from the College of Computer Science, Sichuan University, in 2023. During my undergraduate studies, I was also a student in the [NUS SoC NGNE program](https://www.comp.nus.edu.sg/~ngne/Home.html), supervised by [Prof. Stanley Kok](https://www.comp.nus.edu.sg/~skok/index.html).
-
-**I am seeking a PhD position starting in Fall '25!**
+Prior to joining UIC, I completed my MComp at [NExT++](https://www.nextcenter.org/), National University of Singapore, under the supervision of [Prof. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). I received my B.Eng. degree from the College of Computer Science, Sichuan University, in 2023.
 
 ## Updates
 
