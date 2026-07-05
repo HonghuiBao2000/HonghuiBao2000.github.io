@@ -1,9 +1,9 @@
 main:
-  - title: "OneReason Technical Report"
-    authors: OneRec Team (Guorui Zhou, Honghui Bao, ..., Ziming Li) 
+  - title: "OpenOneRec Technical Report"
+    authors: OneRec Team (Guorui Zhou, <strong>Honghui Bao</strong>, ..., Ziming Li) 
     conference_short: Technical Report
     conference: Technical Report, 2026.
-    pdf: https://arxiv.org/abs/2606.06260
+    pdf: https://arxiv.org/abs/2512.24762
     code: https://github.com/Kuaishou-OneRec/OpenOneRec
     notes: Core Contributor
     image: ./assets/img/publication_preview/OpenOneRec.png
