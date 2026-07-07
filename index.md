@@ -10,6 +10,7 @@ Prior to joining UIC, I completed my MComp at [NExT++](https://www.nextcenter.or
 
 ## Updates
 
+- **[Jul. 2026]** We released [a survey on Agentic Recommender Systems](https://arxiv.org/abs/2607.04433v1).
 - **[Jun. 2026]** We released [OneReason Technical Report](https://arxiv.org/abs/2606.06260).
 - **[Apr. 2026]** Our paper [OneRec-Think](https://arxiv.org/abs/2510.11639), on explicit reasoning in generative recommendation, was accepted to [ACL 2026](https://2026.aclweb.org/).
 - **[Jan. 2026]** We released [OpenOneRec Technical Report](https://arxiv.org/abs/2512.24762).
