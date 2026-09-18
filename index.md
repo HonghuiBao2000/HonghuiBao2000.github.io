@@ -27,7 +27,8 @@ Prior to joining UIC, I completed my MComp at [NExT++](https://www.nextcenter.or
 <div style="display:flex;align-items:center;gap:14px;margin-bottom:14px;">
   <img src="assets/img/logo/onerec.png" alt="Kuaishou OneRec" style="width:84px;height:auto;flex-shrink:0;background:#fff;border-radius:6px;padding:3px;">
   <div>
-    <b>Research Intern</b>, Kuaishou OneRec, advised by <span style="white-space:nowrap;">Dr. Shiyao Wang</span><br>
+    <b>Research Intern</b>, Kuaishou OneRec<br>
+    Advised by <span style="white-space:nowrap;">Dr. Shiyao Wang</span><br>
     <span style="font-size:0.9em;opacity:0.7;">Aug. 2025 - Jul. 2026 &middot; Beijing, China</span>
   </div>
 </div>
@@ -35,7 +36,8 @@ Prior to joining UIC, I completed my MComp at [NExT++](https://www.nextcenter.or
 <div style="display:flex;align-items:center;gap:14px;margin-bottom:14px;">
   <img src="assets/img/logo/nextplus.png" alt="NExT++" style="width:84px;height:auto;flex-shrink:0;background:#fff;border-radius:6px;padding:3px;">
   <div>
-    <b>Research Assistant</b>, <a href="https://www.nextcenter.org/"><autocolor>NExT++</autocolor></a>, NUS, advised by <a href="https://www.chuatatseng.com/" style="white-space:nowrap;"><autocolor>Prof. Tat-Seng Chua</autocolor></a> and mentored by <a href="https://wenjiewwj.github.io/" style="white-space:nowrap;"><autocolor>Prof. Wenjie Wang</autocolor></a><br>
+    <b>Research Assistant</b>, <a href="https://www.nextcenter.org/"><autocolor>NExT++</autocolor></a>, NUS<br>
+    Mentored by <a href="https://wenjiewwj.github.io/" style="white-space:nowrap;"><autocolor>Prof. Wenjie Wang</autocolor></a>, advised by <a href="https://www.chuatatseng.com/" style="white-space:nowrap;"><autocolor>Prof. Tat-Seng Chua</autocolor></a><br>
     <span style="font-size:0.9em;opacity:0.7;">Aug. 2023 - Jul. 2025 &middot; Singapore</span>
   </div>
 </div>
