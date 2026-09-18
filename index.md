@@ -17,10 +17,8 @@ Prior to joining UIC, I completed my MComp at [NExT++](https://www.nextcenter.or
 - **[Apr. 2026]** Our paper [OneRec-Think](https://arxiv.org/abs/2510.11639), on explicit reasoning in generative recommendation, was accepted to [ACL 2026](https://2026.aclweb.org/).
 - **[Jan. 2026]** We released [OpenOneRec Technical Report](https://arxiv.org/abs/2512.24762).
 - **[Aug. 2025]** We released [OneRec-V2 Technical Report](https://arxiv.org/abs/2508.20900).
-- **[Aug. 2025]** I joined [Kuaishou OneRec](https://www.nextcenter.org/) as a research intern.
 - **[Jul. 2025]** Our paper [HUM](https://arxiv.org/abs/2507.04626), on LLM-based heterogeneous recommendation, was accepted to [RecSys 2025](https://recsys.acm.org/recsys25/) as an **Oral Presentation**.
 - **[Jul. 2024]** Our paper [LETTER](https://arxiv.org/abs/2405.07314), on LLM-based generative recommendation, was accepted to [CIKM 2024](https://cikm2024.org/).
-- **[Aug. 2023]** I joined [NExT++](https://www.nextcenter.org/) as a research intern.
 
 ## Experience
 
