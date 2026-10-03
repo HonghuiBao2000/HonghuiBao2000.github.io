@@ -6,7 +6,7 @@ layout: homepage
 
 I am a PhD student in Computer Science at the [University of Illinois Chicago](https://cs.uic.edu/), advised by Prof. [Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). 
 
-My research interests lie in **Large Language Models** and **Personalized Agents**. Previously, I worked on building **recommendation foundation models** (e.g., [OpenOneRec](https://github.com/Kuaishou-OneRec/OpenOneRec)).
+My research interests lie in **Large Language Models** and **Personalized Agents**. Previously, I worked on building **Recommendation Foundation Models** (e.g., [OpenOneRec](https://github.com/Kuaishou-OneRec/OpenOneRec)).
 
 Prior to joining UIC, I completed my MComp at [NExT++](https://www.nextcenter.org/), National University of Singapore, under the supervision of [Prof. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). I received my B.Eng. degree from the College of Computer Science, [Sichuan University](https://en.scu.edu.cn/), in 2023.
 
