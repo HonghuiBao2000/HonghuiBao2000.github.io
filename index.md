@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student in Computer Science at the [University of Illinois Chicago](https://cs.uic.edu/), advised by Prof. [Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). 
+I am a PhD student in Computer Science at the [University of Illinois Chicago](https://cs.uic.edu/), advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). 
 
 My research interests lie in **Large Language Models** and **Personalized Agents**. Previously, I worked on building **Recommendation Foundation Models** (e.g., [OpenOneRec](https://github.com/Kuaishou-OneRec/OpenOneRec)).
 
